@@ -1,6 +1,6 @@
 
 
-This project is a Spring Boot-based application designed to manage user profiles and departments Using MySQL and JDBC. It demonstrates a multi-layered architecture, including controllers, services, data access objects (DAOs), and entities, following best practices in software engineering.
+This project is a Spring Boot-based application designed to manage user profiles and departments using MySQL and JDBC. It demonstrates a multi-layered architecture, including controllers, services, data access objects (DAOs), and entities, following best practices in software engineering.
 
 ## Project Structure
 
